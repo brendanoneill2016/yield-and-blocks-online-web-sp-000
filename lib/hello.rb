@@ -9,8 +9,13 @@ if block_given?
     i = i + 1 
   end
   
+else 
+  puts "Hey! No block was given!"
+  
   array
   end
+  
+
 
 # call your method here!
 
